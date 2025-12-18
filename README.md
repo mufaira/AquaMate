@@ -3,9 +3,13 @@
 **AquaMate** adalah aplikasi mobile berbasis Flutter yang membantu Anda melacak dan mengelola asupan air harian untuk gaya hidup sehat. Dengan fitur reminder pintar, tracking progress real-time, dan integrasi cuaca, AquaMate membuat menjaga hidrasi menjadi lebih mudah dan menyenangkan!
 
 Dibuat Untuk Menyelesaikan UAS PPB Kelompok 7
+
 Anggota :
+
 Glidsi Isnayni Novgirl Ummaeroh - K3523033
+
 Muhammad Irfan Dwi Putra - K3523049
+
 Najela Najwa Anjani - K3523055
 
 ![AquaMate Logo](assets/icon/icon.png)
